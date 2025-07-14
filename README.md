@@ -31,7 +31,7 @@ To run locally:
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   https://github.com/SANJAI-s0/AI-Tools_Guide.git
    ```
 2. Open `index.html` in your browser.
 
