@@ -3,7 +3,7 @@
 
 This project is an interactive, visually-rich guide designed to help students and educators explore the vast ecosystem of AI tools. From writing assistance and coding companions to diagramming and niche academic tools — this guide categorizes and links to some of the most powerful AI platforms available today.
 
-🔗 **Live Site:** [Visit on GitHub Pages](https://<your-username>.github.io/<repo-name>/)
+🔗 **Live Site:** [Visit on GitHub Pages](https://aitoolsguide.com/)
 
 ---
 
